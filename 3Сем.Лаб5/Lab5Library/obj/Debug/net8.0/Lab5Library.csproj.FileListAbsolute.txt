@@ -1,0 +1,11 @@
+C:\Users\Счастливый\source\repos\Lab5Library\bin\Debug\net8.0\Lab5Library.deps.json
+C:\Users\Счастливый\source\repos\Lab5Library\bin\Debug\net8.0\Lab5Library.dll
+C:\Users\Счастливый\source\repos\Lab5Library\bin\Debug\net8.0\Lab5Library.pdb
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\Lab5Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\Lab5Library.AssemblyInfoInputs.cache
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\Lab5Library.AssemblyInfo.cs
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\Lab5Library.csproj.CoreCompileInputs.cache
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\Lab5Library.dll
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\refint\Lab5Library.dll
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\Lab5Library.pdb
+C:\Users\Счастливый\source\repos\Lab5Library\obj\Debug\net8.0\ref\Lab5Library.dll
