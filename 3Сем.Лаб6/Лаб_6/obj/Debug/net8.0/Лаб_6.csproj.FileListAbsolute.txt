@@ -1,0 +1,14 @@
+C:\Users\Счастливый\source\repos\Лаб_6\bin\Debug\net8.0\Лаб_6.exe
+C:\Users\Счастливый\source\repos\Лаб_6\bin\Debug\net8.0\Лаб_6.deps.json
+C:\Users\Счастливый\source\repos\Лаб_6\bin\Debug\net8.0\Лаб_6.runtimeconfig.json
+C:\Users\Счастливый\source\repos\Лаб_6\bin\Debug\net8.0\Лаб_6.dll
+C:\Users\Счастливый\source\repos\Лаб_6\bin\Debug\net8.0\Лаб_6.pdb
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.AssemblyInfoInputs.cache
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.AssemblyInfo.cs
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.csproj.CoreCompileInputs.cache
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.dll
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\refint\Лаб_6.dll
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.pdb
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\Лаб_6.genruntimeconfig.cache
+C:\Users\Счастливый\source\repos\Лаб_6\obj\Debug\net8.0\ref\Лаб_6.dll
